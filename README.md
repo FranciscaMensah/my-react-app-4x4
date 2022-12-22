@@ -2,4 +2,4 @@
 React Lesson 4.4
 
 Learned how to make controlled components
-and how to handle forms elements in React.
+and how to handle form elements in React.
